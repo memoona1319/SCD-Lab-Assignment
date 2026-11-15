@@ -2,10 +2,11 @@
 
 ## Student Information
 - **Student Name:** Memoona Shakeel
-- **Registration Number:** [Enter Your Registration Number]
+- **Registration Number:** [24-ARID-4891]
 
 ## Repository Description
-This repository contains my Software Construction and Development Lab Assignment 2. It includes files related to my personal introduction and assignment information. It is used to practice GitHub repository management, file uploading, commits, branches, and pull requests.
+This repository contains my Software Construction and Development Lab Assignment 
+2. It includes files related to my personal introduction and assignment information. It is used to practice GitHub repository management, file uploading, commits, branches, and pull requests.
 
 ## List of Files Included
 1. **hello.txt** – Contains my personal introduction.
