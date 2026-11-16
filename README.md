@@ -11,4 +11,4 @@ This repository contains my Software Construction and Development Lab Assignment
 ## List of Files Included
 1. **hello.txt** – Contains my personal introduction.
 2. **about.txt** – Contains information about the assignment and repository.
-3. **README.md** - Update 
+3. **README.md** - Contains assignment details, student information, and repository documentation.
