@@ -1,12 +1,1 @@
-About This Repository
-
-This repository is created for
-Software Construction and Development.
-
-It contains practical work related to:
-- Git
-- GitHub
-- Repository Management
-- Branching
-- Merging
-
+This file contains details about my SCD Lab Assignment 2.
